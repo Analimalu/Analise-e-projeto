@@ -1,13 +1,13 @@
 Requisitos Funcionais:						
 								
-RF001:O usuário deve ter uma página de login								
+RF001:(login)O usuário deve ter uma página de login								
 RF002:O usuário poderá adicionar os materiais para o carrinho								
-RF003:O usuário pode abrir a imgagem ao toca-la								
-RF004:O usuário poderá pesquisar								
+RF003:O usuário pode abrir a imagem ao toca-la								
+RF004:O usuário poderá pesquisar os produtos								
 RF005:O cliente poderá  escolher o fundo (modo noturno e diurno)						
 RF006:O cliente terá acesso ao manual de instrução	
 RF007:O usuário poderá escolher a forma de pagamento
-RF008:O usuário terá acesso ao chat 
+RF008:O usuário poderá utilizar o chat para conversar e ver informações
 RF008:O usuário poderá recuperar a senha. 
 								
 Requisitos não funcionais:								
@@ -18,7 +18,7 @@ RnF004:(tempo)-O usuário terá um tempo limite (6 horas) para cancelar o pedido
 RnF005:(segurança)-é necessário ter o cadastro da conta (telefone, rg, endereço, email, cpf)								
 RnF006:carrinho								
 RnF007:O sistema deve abrir a imagem e mostrar informações do material que o usuário tocou								
-RnF008:O sistema terá a opção de de mudar a cor de fundo.								
+RnF008:O sistema terá disponivel mudar 2 cores de fundo (claro,escuro)								
 RnF009:O sistema terá chat para os usuários 								
 RnF010:O sistema terá manual de instruções(que vai aparecer logo depois do cadastro, e ficará nas 								
 configurações.				
